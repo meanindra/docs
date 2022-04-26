@@ -11,7 +11,7 @@
         - [Using MacOS](getting-started/create-bootable-media/bootable-usb-using-macos.md)
     - [Standard Installation](getting-started/installation/installation.md)
         - [Custom (Advanced) Installation]()
-- [Navigate Pop!_OS](navigate-pop/navigate-pop.md)
-    - [Tiling & Stacking Windows](navigate-pop/tiling-stacking-windows.md)
+- [Navigate Pop!_OS]()
+    - [Tiling & Stacking Windows]()
 - [Customize Pop!_OS]()
 
