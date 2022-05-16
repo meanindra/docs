@@ -34,7 +34,6 @@ Launch the Pop!\_Shop; then click the `Installed` button.
 ## Launching Applications
 
 Applications can be launched from the Dock, using the Launcher, or from the Terminal.
-
 ### The Launcher
 
 Press the SUPER key or the Dock Launcher icon to bring up the Launcher.

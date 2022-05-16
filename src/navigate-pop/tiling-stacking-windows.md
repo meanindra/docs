@@ -3,7 +3,6 @@
 This section describes the Auto Tiling, Stacking, and window adjustment features in Pop!\_OS.
 
 ---
-
 ## Window Adjustment Mode
 
 Adjustment mode allows users to easily manipulate the placement of windows using keyboard shortcuts.
