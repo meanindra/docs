@@ -1,4 +1,10 @@
-# Adding Bookmarks
+# Bookmarks & Starred Items
+
+Bookmarking and starring items makes them quickly accessible within Nautilus.
+
+---
+
+## Adding Bookmarks
 
 Adding a bookmark pins a folder below the locations listed on the left. These folders can be quickly accessed without navigating through directories.
 
@@ -14,7 +20,7 @@ Remove a bookmark by right-clicking it and select `Remove`.
 
 ![Remove Bookmark](/images/navigate-files-folders/remove-bookmark.png)
 
-# Starred Items
+## Starred Items
 
 Similar to bookmarks, starred files and folders can be quickly accessed in the `Starred` section in the left panel.
 

@@ -9,7 +9,7 @@ Toggle between List and Grid view using the icon in the upper right corner.
 
 ![Toggle View](/images/navigate-files-folders/toggle-view.png)
 
-List view allows sorting files and folders using properties in the column headers. 
+List view allows sorting files and folders using properties in the column headers.
 
 ![List View Headers](/images/navigate-files-folders/list-view-headers.png)
 

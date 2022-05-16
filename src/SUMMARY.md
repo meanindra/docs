@@ -16,6 +16,7 @@
     - [Tiling & Stacking Windows](navigate-pop/tiling-stacking-windows.md)
     - [Using Workspaces](navigate-pop/using-workspaces.md)
     - [Locate & Launch Applications](navigate-pop/launching-applications.md)
+        - [Switch Between Applications](navigate-pop/switching-apps.md)
     - [Navigate Files & Folders](navigate-pop/navigate-files-folders.md)
         - [Viewing & Sorting Options](navigate-pop/viewing-sorting-options.md)
         - [Bookmarks & Starred Items](navigate-pop/bookmarks-starred-items.md)
