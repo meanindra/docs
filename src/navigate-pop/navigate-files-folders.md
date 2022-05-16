@@ -6,10 +6,10 @@ Sunrise Master Training guide (Google Doc)
 
 Pop!\_OS uses a file manager called Nautilus to graphically browse files and folders stored on the system and in connected cloud storage accounts. In Linux, a user's data is stored in their Home directory by default.
 
-- [Launch Nautilus and navigate through local directories.](/navigate-pop/navigate-files-folders.md#using-nautilus-to-find-your-files)
-- [Use search to locate files and filter results by file type.](/navigate-pop/navigate-files-folders.md#using-search)
-- [Change how files are visually represented, and sort displayed files by specific properties.](/navigate-pop/viewing-sorting-options.md)
-- [Tag frequently used files and folders for quick access using Starred items and Bookmarks.](/navigate-pop/bookmarks-starred-items.md)
+- [Launch Nautilus](/navigate-pop/navigate-files-folders.md#using-nautilus-to-find-your-files) and navigate through local directories.
+- [Use search](/navigate-pop/navigate-files-folders.md#using-search) to locate files and filter results by file type.
+- [Change how files](/navigate-pop/viewing-sorting-options.md) are visually represented, and sort displayed files by specific properties.
+- [Tag frequently used files](/navigate-pop/bookmarks-starred-items.md) and folders for quick access using Starred items and Bookmarks.
 
 ---
 
